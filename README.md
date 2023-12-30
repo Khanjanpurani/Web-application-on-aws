@@ -1,7 +1,7 @@
 # Project Title: AWS-powered Web Application
 Project Description:
 
-The AWS-powered Web Application is a simple and efficient web-based task management system designed to leverage various AWS services for seamless scalability, security, and reliability. The application is built using AWS Amplify for frontend development, AWS Lambda for serverless backend functions, IAM for access control, API Gateway for RESTful API management, and DynamoDB for data storage.
+The AWS-powered Web Application is a simple and efficient web-based task system designed to leverage various AWS services for seamless scalability, security, and reliability. The application is built using AWS Amplify for frontend development, AWS Lambda for serverless backend functions, IAM for access control, API Gateway for RESTful API management, and DynamoDB for data storage.
 
 Features:
 
